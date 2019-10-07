@@ -1,4 +1,4 @@
-## Running server with manager
+# Running server with manager
 
 Manager is a small mule app deployed inside the server which expose an endpoint **/manager/deploy**. This endpoints allow us remote deployments.
 

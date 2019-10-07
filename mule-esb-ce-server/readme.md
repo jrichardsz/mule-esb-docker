@@ -1,4 +1,4 @@
-## Running just the server
+# Running just the server
 
 If you are mule lover, you will know that mule esb does not expose ports like tomcat, jboss or another java application server. Mule deployed applications can expose the port they need.
 

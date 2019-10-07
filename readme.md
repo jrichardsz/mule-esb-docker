@@ -10,6 +10,7 @@ Image from this [link](https://blogs.mulesoft.com/tag/docker/)
 
 1. [Running just the server](./mule-esb-ce-server)
 2. [Running server with manager](./mule-esb-ce-server-manager)
+3. [Running mule as single application](./mule-esb-ce-single-app)
 
 # Contributors
 
