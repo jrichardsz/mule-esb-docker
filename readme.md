@@ -9,8 +9,15 @@ Image from this [link](https://blogs.mulesoft.com/tag/docker/)
 # Content
 
 1. [Running just the server](./mule-esb-ce-server)
+  - Start the server ready to manual deploy of mule artifacts (copy zip to apps folder)
 2. [Running server with manager](./mule-esb-ce-server-manager)
+  - Start the server with a manager that allows you to deploy mule applications from a remote client
 3. [Running mule as single application](./mule-esb-ce-single-app)
+  - In this mode, the mule server and mule app are builded as one docker image.
+
+# Official docker image
+
+https://hub.docker.com/repository/docker/jrichardsz/mule-esb-ce
 
 # Contributors
 
